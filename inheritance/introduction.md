@@ -7,3 +7,8 @@ We need inheritance to reduce the amount of duplicate code and make objects as l
 #### Types of Inheritance 
 - Classical inheritance (from Java. C++)
 - Prototypal inheritance
+
+## Mixin Classes
+
+There is a way to reuse code without using strict inheritance. If a function needed to use in more than one class, it can be shared among multiple classes through augmentation.
+
