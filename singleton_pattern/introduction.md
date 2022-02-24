@@ -6,3 +6,7 @@ It is one of the most basic, but patterns in JS. It provides a way to group code
 - Can be used for namespacing
 - Used to encapsulate browser differences through a technique known as branching
 - Organizing code 
+
+# Branching 
+
+Branching is technique that allows you to encapsulate browser differences into dynamic methods that get set at run-time
